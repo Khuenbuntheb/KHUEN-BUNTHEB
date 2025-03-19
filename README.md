@@ -24,7 +24,6 @@
     <img src="hero1.jpg" width="300" height="200">
     <img src="hero2.jpg" width="300" height="200">
     <img src="hero3.jpg" width="300" height="200"><br>
-
     </body>
     <footer>
         <img src="hero4.jpg" width="30" height="30">
